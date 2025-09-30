@@ -205,3 +205,80 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ============================================
+# PackLight Custom Ignores
+# ============================================
+
+# API keys and credentials
+.env.*
+!.env.example
+config/secrets.yaml
+config/secrets.json
+api_keys.txt
+*.key
+*.pem
+aws_credentials.json
+
+# Personal/sensitive data
+data/personal/
+data/real_wardrobe/
+my_wardrobe.csv
+my_wardrobe.json
+
+# Large model files 
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+models/trained/*.pkl
+models/trained/*.h5
+models/weights/
+
+# Large datasets
+data/raw/*.csv
+data/processed/*.parquet
+*.parquet
+
+# Temporary files
+temp/
+tmp/
+scratch/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Docker volumes
+docker-data/
+
+# Cloud/deployment configs with secrets
+terraform/*.tfvars
+kubernetes/*secret*.yaml
+deployment/production/
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE specific 
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# Testing artifacts
+.coverage
+htmlcov/
+.pytest_cache/
