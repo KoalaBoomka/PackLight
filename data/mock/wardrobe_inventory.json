@@ -1,0 +1,100 @@
+[
+  {
+    "type": "top",
+    "name": "Long Sleeve Shirt",
+    "color": "Black",
+    "min_temp": 4,
+    "max_temp": 20
+  },
+  {
+    "type": "top",
+    "name": "T-Shirt",
+    "color": "Blue",
+    "min_temp": 6,
+    "max_temp": 34
+  },
+  {
+    "type": "top",
+    "name": "Tank",
+    "color": "Navy",
+    "min_temp": 0,
+    "max_temp": 33
+  },
+  {
+    "type": "bottom",
+    "name": "Shorts",
+    "color": "Gray",
+    "min_temp": -2,
+    "max_temp": 26
+  },
+  {
+    "type": "bottom",
+    "name": "Jeans",
+    "color": "Blue",
+    "min_temp": 10,
+    "max_temp": 28
+  },
+  {
+    "type": "bottom",
+    "name": "Chinos",
+    "color": "Blue",
+    "min_temp": -1,
+    "max_temp": 35
+  },
+  {
+    "type": "layer",
+    "name": "Hoodie",
+    "color": "Beige",
+    "min_temp": 1,
+    "max_temp": 29
+  },
+  {
+    "type": "layer",
+    "name": "Cardigan",
+    "color": "White",
+    "min_temp": 2,
+    "max_temp": 31
+  },
+  {
+    "type": "layer",
+    "name": "Sweater",
+    "color": "Black",
+    "min_temp": 1,
+    "max_temp": 26
+  },
+  {
+    "type": "jacket",
+    "name": "Light Jacket",
+    "color": "Gray",
+    "min_temp": 5,
+    "max_temp": 25
+  },
+  {
+    "type": "jacket",
+    "name": "Rain Jacket",
+    "color": "Blue",
+    "min_temp": 9,
+    "max_temp": 22
+  },
+  {
+    "type": "jacket",
+    "name": "Bomber",
+    "color": "Gray",
+    "min_temp": 3,
+    "max_temp": 21
+  },
+  {
+    "type": "shoe",
+    "name": "Boots",
+    "color": "Beige",
+    "min_temp": 4,
+    "max_temp": 22
+  },
+  {
+    "type": "shoe",
+    "name": "High Sneakers",
+    "color": "Black",
+    "min_temp": -4,
+    "max_temp": 22
+  }
+]

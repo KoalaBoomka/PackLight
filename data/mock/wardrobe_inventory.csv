@@ -1,0 +1,15 @@
+type,name,color,min_temp,max_temp
+top,Long Sleeve Shirt,Black,4,20
+top,T-Shirt,Blue,6,34
+top,Tank,Navy,0,33
+bottom,Shorts,Gray,-2,26
+bottom,Jeans,Blue,10,28
+bottom,Chinos,Blue,-1,35
+layer,Hoodie,Beige,1,29
+layer,Cardigan,White,2,31
+layer,Sweater,Black,1,26
+jacket,Light Jacket,Gray,5,25
+jacket,Rain Jacket,Blue,9,22
+jacket,Bomber,Gray,3,21
+shoe,Boots,Beige,4,22
+shoe,High Sneakers,Black,-4,22
